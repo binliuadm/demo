@@ -1,4 +1,4 @@
 public class Test {
-   static
+   public static
 }
 
